@@ -27,7 +27,6 @@
 
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
-(^|\.)\w*esyzdbl\w*\..*$
 (^|\.)\w*admaster\w*\..*$
 (^|\.)\w*adsage\w*\..*$
 (^|\.)\w*adsensor\w*\..*$
@@ -135,6 +134,7 @@
 (^|\.)(hc|hm|hmma|hpd|imageplus|ma|mobads-logs|mobads|mtj|nsclick)\.baidu\.com$
 (^|\.)(pos|pups|rj|rp|spcode|tk|tongji|tuisong|ucstat|ufosdk|union|utility|utk|videopush|wangmeng|wm|znsv)\.baidu\.com$
 (^|\.)ashifen\.com$
+(^|\.)esyzdb\.com$
 (^|\.)baidu9635\.com$
 (^|\.)baikebcs\.bdimg\.com$
 (^|\.)boscdn\.bpc\.baidu\.com$
