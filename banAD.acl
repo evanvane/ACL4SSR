@@ -155,6 +155,8 @@
 (^|\.)wisepush\.video\.baidu\.com$
 (^|\.)zz\.bdstatic\.com$
 
+#Personalize
+(^|\.)njwdj\.com$
 # Apple
 (^|\.)adserver\.unityads\.unity3d\.com$
 
