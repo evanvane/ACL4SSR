@@ -27,6 +27,7 @@
 
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
+(^|\.)\w*esyzdbl\w*\..*$
 (^|\.)\w*admaster\w*\..*$
 (^|\.)\w*adsage\w*\..*$
 (^|\.)\w*adsensor\w*\..*$
